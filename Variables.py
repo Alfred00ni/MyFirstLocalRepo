@@ -13,3 +13,6 @@ last_name = 'Carrillo'
 
 print (first_name, last_name)
 print ('Mr.' + first_name +' '+ last_name)
+
+thislist = ["apple","banna","cherry"]
+print(thislist)
